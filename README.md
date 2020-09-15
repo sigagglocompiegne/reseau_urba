@@ -14,7 +14,7 @@ Dans ce scénario, les standards nationaux redeviennent donc un temps d'échange
 
 # Avertissement
 
-Cette vision 
+Ce choix de la collectivité offre une plus grande latitude en terme de gestion de la donnée. Un affranhchissement des standards actuels et à venir, permettra une meilleure cohérence entre eux et une homogénéisation et performance de gestion à moyen et long terme. En contre partie, ce modèle implique une plus grande rigueur en terme d'intégrations des données, d'adaptation du modèle en fonction des spécificités du réseau traité. Il est à noter également que ce choix s'est adapté à une vision d'accès à l'information des réseaux. Une gestion en régie impliquant la gestion des données ne sera peut-être pas compatible avec cette vision en fonction des outils déjà développés faisant appel à un autre modèle de données.
 
 # Voir aussi
 
