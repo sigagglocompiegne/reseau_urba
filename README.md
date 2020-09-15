@@ -6,9 +6,15 @@ Urbanisation des modèles de données des différents réseaux de compétence lo
 
 # Contexte
 
-Les collectivités 
+Les collectivités sont soumises à diverses réglementations concernant les réseaux (DICT, prises de compétence, entretiens, ...) et peuvent être gérés en régie ou délégués à un ou plusieurs prestataires. Dans ce contexte, la première question qui est souvent abordée est, mais où passent mes réseaux ? La donnée devient donc un enjeu majeur pour les collectivités. Si elle n'existe pas en interne (ou uniquement sur des plans papiers plus ou moins à jour), elle est souvent disponible auprès d'un délégataire assigné à la gestion de mon réseau. La seconde question est comment accéder à cette information pour la gestion courante de mes services ? Les standards nationaux mis en place sur les réseaux doivent répondre à cette question puisqu'ils organisent et structures des formats d'échanges entre les acteurs. Malheureusement il n'existe pas de standards nationaux pour les types de réseaux et cela ne résoud pas la question d'une gestion cohérente et homogène des données à l'intérieur d'une collectivité pouvant provenir de x prodcuteurs.
+
+Le Service de l'Information Géographique de l'Agglomération de la Région de Compiègne, qui dispose d'un entrepôt de données géographiques, s'oriente vers une gestion commune des données de réseaux. Il s'agit pas d'intégrer tous les réseaux dans une même base de données mais bien de réfléchir à utiliser un modèle de données standard à tous types de réseaux. Un réseau fonctionnant de la même façon quelque soit son usage (un filaire conducteur, des ouvrages et des appareils), nous a conduit à l'opportunité de mettre en oeuvre un modèle fonctionnant sur un tronc commun avec des spécifications propres à chacun. Il n'était pas envisageable d'intégrer les standards tels quels.
+
+Dans ce scénario, les standards nationaux redeviennent donc un temps d'échanges entre acteurs. La collectivité intègre les standards dans son modèle propre et renvoie les données dans le standard en question.
 
 # Avertissement
+
+Cette vision 
 
 # Voir aussi
 
