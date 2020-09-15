@@ -1,4 +1,4 @@
-![picto](/doc/img/geocompiegnois_2020.jpg)
+![picto](/doc/img/geocompiegnois_2020_reduit_v2.png)
 
 * Statut
   - [ ] à rédiger
