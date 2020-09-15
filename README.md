@@ -14,4 +14,4 @@ Les collectivités
 
 Les modèles standards nationaux des différents type de réseaux sont réalisés par la COVADIS. Vous pouvez vous y référer pour prendre connaissance des spécifications de chacun.
 
-* Standard RAEPA (Réseaux d’adduction d’eau potable et d’assainissement)
+* [Standard RAEPA](http://www.geoinformations.developpement-durable.gouv.fr/geostandard-reseaux-d-adduction-d-eau-potable-et-d-a3478.html) pour tout apprendre à partir de Zéro !) (Réseaux d’adduction d’eau potable et d’assainissement)
