@@ -1,5 +1,12 @@
 ![picto](/doc/img/geocompiegnois_2020.jpg)
 
+* Statut
+  - [ ] à rédiger
+  - [x] en cours de rédaction
+  - [ ] relecture
+  - [ ] finaliser
+  - [ ] révision
+
 # Schéma des standards locaux des réseaux
 
 Urbanisation des modèles de données des différents réseaux de compétence locale.
