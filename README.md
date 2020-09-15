@@ -2,4 +2,16 @@
 
 # Schéma des standards locaux des réseaux
 
-Urbanisation des modèles de données des différents réseaux de compétence locale
+Urbanisation des modèles de données des différents réseaux de compétence locale.
+
+# Contexte
+
+Les collectivités 
+
+# Avertissement
+
+# Voir aussi
+
+Les modèles standards nationaux des différents type de réseaux sont réalisés par la COVADIS. Vous pouvez vous y référer pour prendre connaissance des spécifications de chacun.
+
+* Standard RAEPA (Réseaux d’adduction d’eau potable et d’assainissement)
